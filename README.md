@@ -10,10 +10,6 @@ Retail businesses struggle to understand **who is buying**, **what drives purcha
 
 ---
 
-## 📊 Dashboard Preview
-![Customer Behavior Dashboard](dashboard.png)
-
----
 
 ## 🔍 Key Insights
 - 🛍️ **Clothing** is the top revenue-generating category across all segments
